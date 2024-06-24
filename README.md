@@ -1,6 +1,6 @@
 # DDG Email Alias Generator
 
-This project includes scripts to generate DuckDuckGo email aliases and store the history of generated aliases. The history is saved in a user-specific directory.
+This project includes scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
 
 ## Configuration
 
