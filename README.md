@@ -1,4 +1,4 @@
-# DDG Email Alias Generator
+# quackalias-cli - DuckDuckGo Email Alias Generator and History Tracker
 
 This project includes scripts to generate DuckDuckGo email aliases and store the history of generated aliases.
 
